@@ -20,7 +20,7 @@ const LabList = () => {
       <div className="lab-row">
         <p className="lab-name">研究室</p>
         <p className="lab-teacher">担当教員</p>
-        <p className="lab-point">あなたの評価点</p>
+        <p className="lab-point">評価点</p>
       </div>
 
       {/* 各研究室を並び替えた順に表示 */}
