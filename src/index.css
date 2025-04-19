@@ -147,8 +147,7 @@ h2 {
   .group-list {
     margin: 0 20px;
   }
-}
-
+  
   .lab-row {
     flex-direction: column;
     font-size: 1rem;
@@ -172,3 +171,5 @@ h2 {
     width: 100%;
     padding: 0.5em 0;
   }
+}
+
